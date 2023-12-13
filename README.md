@@ -1,1 +1,1 @@
-a zombie game backend
+a decentralized zombie game backend in which players can attack the zombies and increase their levels , create zombies and make them feed on other zombies to change their dna configurations ( they dont know how to mate!) 
